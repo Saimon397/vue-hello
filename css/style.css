@@ -8,6 +8,8 @@ h1 {
     color: rgb(0, 189, 130);
 }
 
-img {
-    margin-left: 500px;
+#imgg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }

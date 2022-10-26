@@ -1,1 +1,13 @@
-/***//***/
+/***STYLE***/
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(0, 189, 130);
+}
+
+img {
+    margin-left: 500px;
+}
